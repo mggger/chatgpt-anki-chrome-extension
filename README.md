@@ -21,11 +21,11 @@
 
 3. 当遇到感兴趣知识点的时候，选中文本， 通过chatgpt总结成anki卡片
 
-<img src="/Users/home/git/frontend/chatgpt-docs-anki/docs/select.png" alt="xx" style="zoom:50%;" />
+<img src="./docs/select.png" alt="xx" style="zoom:50%;" />
 
 4. 完成后，可以在anki里面开始背诵了
 
-   ![xx](/Users/home/git/frontend/chatgpt-docs-anki/docs/anki.png)
+   ![xx](./docs/anki.png)
 
    
 
