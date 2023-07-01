@@ -1,8 +1,9 @@
 # Anki card createor
 
-通过chatgpt创建anki card
 
+[English Docs](./README-en.md)
 
+**通过chatgpt创建anki card**
 
 这个项目的出发点: 
 
